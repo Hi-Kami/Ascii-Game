@@ -1,0 +1,17 @@
+body
+{ 
+    background-color: #000000; 
+    font-family: Monospace;
+}
+#thescreen{ color: #ffffff; }
+#player{ color: #ffffff; }
+#floor{ color: #663300; }
+#door{ color: #ff9933; }
+#wall{ color: #666666; }
+#armor{ color: #cccccc; }
+#metalweapon{ color: #cccccc; }
+#woodweapon{ color: #b35900; }
+#money{ color: #ffff00; }
+#enemey{ color: #ff0000; }
+#attack{ color: #ffff66; }
+#potion{ color: #00ff00; }
